@@ -7,18 +7,18 @@
 # Features
 
 • **Local LLM Support:** Run high-performance   
-    models locally using Ollama.
+     models locally using Ollama.
 
 • **Autonomous UI Control:** The AI can "see" 
-    your screen and simulate taps, swipes, and  
-    typing using Shizuku and UIAutomator.
+     your screen and simulate taps, swipes, and  
+     typing using Shizuku and UIAutomator.
 
 • **Hardware Integration:** Control WiFi, 
-    Battery, Camera, and Volume directly through 
-    the AI chat.
+     Battery, Camera, and Volume directly
+     through the AI chat.
 
 • **1-Click Setup:** Fully automated Termux 
-    environment configuration.
+      environment configuration.
 
 # Prerequisites
 
