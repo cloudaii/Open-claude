@@ -50,7 +50,8 @@ Shizuku is required to securely bypass the internal Android application sandbox.
 
 Open Termux and paste the following command. This will install and run the ollama on your phone
 
-```termux-setup-storage
+```
+termux-setup-storage
 pkg install ollama
 ollama serve
 ```
